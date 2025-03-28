@@ -1,5 +1,7 @@
 The units in exciting code are in Ha and Bohr radius:
+
 1 Ha = 27.211407953 eV
+
 1 Bohr radius = 0.529177249 A
 
 
